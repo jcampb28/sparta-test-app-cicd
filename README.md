@@ -1,4 +1,4 @@
-# Use this repo with Jenkins
+# Testing Jenkins
 
 ## About the app
 - "app" folder stores Sparta app
